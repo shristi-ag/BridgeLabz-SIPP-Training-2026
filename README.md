@@ -47,7 +47,6 @@ This repository contains Core Java concepts and practice programs completed duri
 - **Collections/** → Collection Framework programs
 - **ExceptionHandling/** → Exception handling examples
 - **FileHandling/** → File operations
-- **Java8/** → Lambda Expressions & Stream API
 - **Practice/** → Additional Java practice questions
 
 ---
