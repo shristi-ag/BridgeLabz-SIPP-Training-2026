@@ -1,60 +1,47 @@
 # BridgeLabz-SIPP-Training-2026
 
-# 📘 Core Java Practice
+# DBMS Practice
 
-## 📖 Overview
-This repository contains Core Java concepts and practice programs completed during Java training. It includes solutions for basic to advanced Java topics with clean and structured code.
+This repository contains my DBMS learning materials and SQL practice completed during the BridgeLabz SIPP Training 2026.
 
----
+## Contents
 
-## 🚀 Contents
-- Java Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Methods
-- Arrays
-- Strings
-- Object-Oriented Programming (OOP)
-- Constructors
-- Inheritance
-- Polymorphism
-- Abstraction
-- Encapsulation
-- Interfaces
-- Exception Handling
-- Collections Framework
-- File Handling
-- Multithreading
-- Java 8 Features
-- Practice Programs
+### Session 1 – RDBMS Fundamentals
+- Introduction to DBMS
+- RDBMS Concepts
+- Keys
+- Normalization Basics
 
----
+### Constraints and Data Integrity
+- Primary Key
+- Foreign Key
+- Unique Constraint
+- NOT NULL
+- CHECK Constraint
+- DEFAULT Constraint
 
-## 🛠️ Tech Stack
-- Java
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Exception Handling
-- File Handling
+### Joins & Basic Queries
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
 
----
+### Session 4
+- SQL Practice Queries
+- Database Creation
+- Table Creation
+- Insert, Update, Delete
+- Query Execution
 
-## 📂 Structure
-- **Basics/** → Java fundamentals
-- **OOPs/** → Object-Oriented Programming concepts
-- **Collections/** → Collection Framework programs
-- **ExceptionHandling/** → Exception handling examples
-- **FileHandling/** → File operations
-- **Practice/** → Additional Java practice questions
+## Technologies Used
+- MySQL
+- SQL
 
 ---
+**Author:** Shristi Agarwal
 
-## 🎯 Purpose
-This repository is created to strengthen Core Java concepts through hands-on practice and coding exercises.
-
----
-
-## 👩‍💻 Author
-**Shristi Agarwal**
